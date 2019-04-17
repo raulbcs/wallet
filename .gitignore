@@ -20,3 +20,8 @@ yarn-error.log
 ###< symfony/webpack-encore-bundle ###
 
 composer.phar
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###

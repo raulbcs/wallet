@@ -17,6 +17,6 @@ class QuoteProvider {
 
     public function getQuote($ticker)
     {
-
+        return ['PETR4' => '25,90'];
     }
 }
